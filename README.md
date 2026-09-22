@@ -214,3 +214,7 @@ Links point at the dsh `dsh-v0.1.7-alpha.1` tag.
 - [`catalog.ts`](https://github.com/deepseek-ai/deepseek-harness/blob/dsh-v0.1.7-alpha.1/packages/llm/llm-pi-ai/src/catalog.ts): `resolveRouteModels`, how listed models inherit `api` and `baseUrl`
 - [Credential records and authorization flows](https://github.com/deepseek-ai/deepseek-harness/blob/dsh-v0.1.7-alpha.1/.agents/notes/implemented/architecture/2026-08-13-credential-records-and-authorization-flows.md): the design note behind the credential store and the unused login flow
 - [`@earendil-works/pi-ai`](https://www.npmjs.com/package/@earendil-works/pi-ai): the Codex OAuth implementation is `dist/auth/oauth/openai-codex.js`
+
+## License
+
+[MIT](LICENSE)
